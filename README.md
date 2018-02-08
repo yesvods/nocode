@@ -91,7 +91,7 @@
 
 ```
 
-就是那么简单 👏。对了，如果应用希望大规模扩展， 你需要做的事情仅仅是：
+就是那么简单 👏。对了，如果应用希望大规模扩展，你需要做的事情仅仅是：
 
 ```
 
@@ -105,4 +105,4 @@ You don't.
 
 ## Prototype
 
-本教源自古老的 [No Code](https://github.com/kelseyhightower/nocode) 典籍，如有雷同，敬请默念。
+本教源自古老的 [No Code](https://github.com/kelseyhightower/nocode) 典籍，如有雷同，敬请默念。
